@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Mercury",
+    "gravity": 3.7,
+    "diameter": 4879
+  },
+  {
+    "name": "Venus",
+    "gravity": 8.87,
+    "diameter": 12104
+  },
+  {
+    "name": "Earth",
+    "gravity": 9.8,
+    "diameter": 12742
+  },
+  {
+    "name": "Mars",
+    "gravity": 3.71,
+    "diameter": 6779
+  },
+  {
+    "name": "Jupiter",
+    "gravity": 24.79,
+    "diameter": 139820
+  },
+  {
+    "name": "Saturn",
+    "gravity": 10.44,
+    "diameter": 116460
+  },
+  {
+    "name": "Uranus",
+    "gravity": 8.69,
+    "diameter": 50724
+  },
+  {
+    "name": "Neptune",
+    "gravity": 11.15,
+    "diameter": 49244
+  }
+]
